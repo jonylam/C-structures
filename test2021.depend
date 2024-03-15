@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1623796618 source:d:\files\simeiwsis\c++\test2021\src\avl.cpp
+	"AVL.h"
+
+1623796618 d:\files\simeiwsis\c++\test2021\include\avl.h
+	"BTS.h"
+
+1624013061 d:\files\simeiwsis\c++\test2021\include\bts.h
+	<iostream>
+	"Unsorted.h"
+
+1623796618 source:d:\files\simeiwsis\c++\test2021\src\bts.cpp
+	"BTS.h"
+	<iostream>
+
+1623857878 source:d:\files\simeiwsis\c++\test2021\src\g.cpp
+	"g.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1623859619 d:\files\simeiwsis\c++\test2021\include\g.h
+	<iostream>
+	<cstring>
+	<string>
+
+1623852951 source:d:\files\simeiwsis\c++\test2021\src\ht.cpp
+	"HT.h"
+	"fstream"
+
+1623796686 d:\files\simeiwsis\c++\test2021\include\ht.h
+	<iostream>
+
+1624124934 source:d:\files\simeiwsis\c++\test2021\main.cpp
+	<iostream>
+	"BTS.h"
+	"AVL.h"
+	"Hash.h"
+	"Sorted.h"
+	"Unsorted.h"
+	"fstream"
+	<fstream>
+	<string>
+	<algorithm>
+	<sstream>
+	<iterator>
+	<stdlib.h>
+	<cstdio>
+	<ctime>
+
+1624123396 source:d:\files\simeiwsis\c++\test2021\src\sorted.cpp
+	"Sorted.h"
+	<iostream>
+	<cstring>
+	<string>
+	<bits/stdc++.h>
+
+1624117876 d:\files\simeiwsis\c++\test2021\include\sorted.h
+	"Unsorted.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1624122203 source:d:\files\simeiwsis\c++\test2021\src\unsorted.cpp
+	"Unsorted.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1624122195 d:\files\simeiwsis\c++\test2021\include\unsorted.h
+	<iostream>
+	<cstring>
+	<string>
+
+1624123028 source:d:\files\simeiwsis\c++\test2021\src\hash.cpp
+	"Hash.h"
+
+1624124883 d:\files\simeiwsis\c++\test2021\include\hash.h
+	<string>
+	<cstring>
+	<iostream>
+
